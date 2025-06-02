@@ -1,0 +1,13 @@
+
+.wrap{
+       position: fixed;
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+    width: 100%;
+}
+
+.sample{
+    height: 200px;
+    overflow: scroll;
+}
